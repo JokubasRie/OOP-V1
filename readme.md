@@ -230,4 +230,4 @@ Realizuotos trys studentų skirstymo į du failus (vargšiukus ir kietiakus) str
 ## Išvados:
 
 - Vector konteineris dažniausiai veikia greičiau už list, ypač dideliems duomenų kiekiams, nes turi efektyvesnę prieigą prie elementų ir mažesnes atminties valdymo sąnaudas.
-- 3 strategija beveik visais atvejais veikia greičiau nei pirma ir antra. Naudojant std::partition ir std::remove_if pasiektas žymus programos veikimo greičio padidėjimas, ypač į dvi kategorijas dalinant didelius duomenų kiekius.
+- 3 strategija beveik visais atvejais veikia greičiau nei pirma ir antra. Naudojant std::partition ir std::remove_if pasiektas žymus programos veikimo greičio padidėjimas, ypač į dvi kategorijas dalinant didelius studentų duomenų kiekius.
