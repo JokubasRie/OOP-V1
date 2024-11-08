@@ -182,7 +182,7 @@ Realizuotos trys studentų skirstymo į du failus (vargšiukus ir kietiakus) str
 
 3 Strategija: optimizuota skaidymo strategija, pritaikant greičiausiai veikiančius metodus iš pirmosios arba antrosios strategijos, siekiant padidinti veikimo efektyvumą naudojant konteinerių operacijas. Vektoriams naudotas std::partition, o listam - std::remove_if metodas.
 
-## Laikai
+## Kelių testų laikų vidurkis
 
 ### 10000:
 
