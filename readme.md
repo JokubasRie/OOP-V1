@@ -14,9 +14,9 @@
         
        cmake "[direktorija]"
    
-4.  Sukompiliuojame ir sukuriame .exe failą:
+4. Sukompiliuojame ir sukuriame .exe failą:
 
-       cmake --build . --config Release 
+       cmake --build . --config Release  
 
 ## V.pradinė
 1. Sukurta struktūra, kuri aprašo studento duomenis.
