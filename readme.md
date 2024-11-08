@@ -1,4 +1,23 @@
 # 1 užduotis
+
+##  Paleidimas
+
+### Naudojant cmake:
+
+1. Terminale nurodome direktorija, kur egzistuoja projekto CMakeLists.txt failas, sukuriam build failams skirta direktorija :
+
+       cd "[direktorija]"
+       mkdir build
+       cd build
+
+2. Paleidžiame cmake, kad sugeneruoti build failus, nurodome jau minėta direktorija:
+        
+       cmake "[direktorija]"
+   
+4.  Sukompiliuojame ir sukuriame .exe failą:
+
+       cmake --build . --config Release 
+
 ## V.pradinė
 1. Sukurta struktūra, kuri aprašo studento duomenis.
 2. Sukurtos funkcijos leidžiančios vartotojui įvesti duomenis ranka, pasirinkti namų darbų įvedimo būdą.
