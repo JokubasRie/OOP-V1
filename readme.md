@@ -1,6 +1,20 @@
 # 1 užduotis
 
-##  Paleidimas
+##  Naudojimo instrukcija
+
+### Naudojant kompiliatorių:
+1. Nuklonuojame repozitoriją:
+
+       git clone https://github.com/JokubasRie/OOP-V1/
+       cd OOP-V1
+   
+2. Sukompiliuojame kodą:
+
+       g++ -std=c++11 *.cpp -o OOP-V1
+   
+3. Paleidžiame programą:
+
+       ./OOP-V1
 
 ### Naudojant cmake:
 
